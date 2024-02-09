@@ -55,6 +55,10 @@ body {
     color: var(--heavy-purple);
 }
 
+h1 {
+    font-size: 30px;
+}
+
 .container-main {
     padding-top: 2em;
     display: flex;
@@ -62,13 +66,13 @@ body {
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 50%;
+    width: 75%;
     height: 100%;
 }
 
 .text-container {
+    font-size: 15px;
     margin-top: 1.1em;
-    width: 70%;
 }
 
 .text-container div {
@@ -79,4 +83,19 @@ body {
 
 .audio-lol {
     padding-top: 10px;
+}
+
+.highlight {
+    font-weight: 500;
+    color: var(--medium-purple);
+}
+
+.highlight-haha {
+    font-weight: 500;
+    color: var(--purple-pain);
+}
+
+.highlight-hehe {
+    font-weight: 500;
+    font-variant: var(--ice-cold);
 }
