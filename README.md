@@ -1,1 +1,1 @@
-Thanks you my customer for availing the friend zone letter
+Thank you my lovely customer for availing the friend zone letter
